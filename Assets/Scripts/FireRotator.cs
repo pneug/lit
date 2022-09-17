@@ -14,6 +14,6 @@ public class FireRotator : MonoBehaviour
     void Update()
     {
         // rotate this icon around the y axis
-        transform.Rotate(new Vector3(0, 1, 0) * Time.deltaTime * 100);
+        transform.Rotate(new Vector3(0, 1, 0) * Time.deltaTime * 50);
     }
 }

@@ -43,12 +43,18 @@ public class BuildingResizer : MonoBehaviour
             {
                 transform.localPosition += leftControllerPosition - lastControllerPosLeft;
             }
+            else
+            {
+                
+            }
         }
         
         lastControllerPosLeft = OVRInput.GetLocalControllerPosition(OVRInput.Controller.LTouch);
         lastControllerPosRight = OVRInput.GetLocalControllerPosition(OVRInput.Controller.RTouch);
         lastControllerDist = distance;
     }
+    
+    //private void ActivateAgents()
 
     private void OnTriggerEnter(Collider other)
     {
