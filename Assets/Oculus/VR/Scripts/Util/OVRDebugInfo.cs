@@ -119,10 +119,6 @@ public class OVRDebugInfo : MonoBehaviour
 #if ENABLE_LEGACY_INPUT_MANAGER
         if (Input.GetKeyDown(KeyCode.Space) && riftPresentTimeout < 0.0f)
         {
-            showVRVars = !showVRVars;
-            riftPresentTimeout = 1.0f;
-        }
-        {
             initUIComponent = true;
             showVRVars ^= true;
         }

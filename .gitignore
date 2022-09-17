@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/FirePropagation/Demo/Prefabs/Viking Village/Textures/wood_tiled_01_n.tif
+*.tif
+
