@@ -653,6 +653,12 @@ MonoBehaviour:
   - {fileID: 40919614}
   houseTransparent: {fileID: 2100000, guid: 94c57cbfb5698814bb8cc7a11c1096b5, type: 2}
   houseOpaque: {fileID: 2100000, guid: 33ec83f755952d149b339cc50d8de025, type: 2}
+  plywoodTransparent: {fileID: 0}
+  plywoodOpaque: {fileID: 0}
+  WindowTransparent: {fileID: 0}
+  WindowOpaque: {fileID: 0}
+  RoofTransparent: {fileID: 0}
+  RoofOpaque: {fileID: 0}
 --- !u!1001 &241499639
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3242,6 +3248,30 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: RoofOpaque
+      value: 
+      objectReference: {fileID: 2100000, guid: 43a28bc0c075dd544b656d49db5590f6, type: 2}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: WindowOpaque
+      value: 
+      objectReference: {fileID: 2100000, guid: b698e1a06b0ad844f9b4ba78ccf2922f, type: 2}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: plywoodOpaque
+      value: 
+      objectReference: {fileID: 2100000, guid: b26f9bbe16765054e898883e8edb4394, type: 2}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: RoofTransparent
+      value: 
+      objectReference: {fileID: 2100036, guid: 18cd780e6948a554a850b2d047ebf8fb, type: 3}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: WindowTransparent
+      value: 
+      objectReference: {fileID: 2100000, guid: 8de636aabf3cea44c9e357d2f4f5ac99, type: 2}
+    - target: {fileID: 2200885952004577195, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
+      propertyPath: plywoodTransparent
+      value: 
+      objectReference: {fileID: 2100000, guid: c7896e44d9e869345992399a61d5b35f, type: 2}
     - target: {fileID: 2975502959481599392, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -3336,7 +3366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6758696659083109303, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8329449360559248213, guid: 351c9f42b7db2b148a1c9b18d102e145, type: 3}
       propertyPath: m_IsActive

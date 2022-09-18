@@ -9,6 +9,16 @@ public class BuildingVisibility : MonoBehaviour
     public Material houseTransparent;
     public Material houseOpaque;
     
+    public Material plywoodTransparent;
+    public Material plywoodOpaque;
+    
+    public Material WindowTransparent;
+    public Material WindowOpaque;
+    
+    public Material RoofTransparent;
+    public Material RoofOpaque;
+    
+    
     void Start()
     {
         // activate all building parts
@@ -56,10 +66,26 @@ public class BuildingVisibility : MonoBehaviour
         }
         foreach (Renderer renderer in renderers)
         {
-            if (renderer.material.name.Contains("House") || renderer.material.name.Contains("Default") || renderer.material.name.Contains("Roof"))
+            if (renderer.material.name.Contains("House") || renderer.material.name.Contains("Default"))
             {
                 renderer.material = visibility == Visibility.opaque ? houseOpaque : houseTransparent;
             }
+            
+            if (renderer.material.name.Contains("Plywood"))
+            {
+                renderer.material = visibility == Visibility.opaque ? plywoodOpaque : plywoodTransparent;
+            }
+            
+            if (renderer.material.name.Contains("Window"))
+            {
+                renderer.material = visibility == Visibility.opaque ? WindowOpaque : WindowTransparent;
+            }
+            
+            if (renderer.material.name.Contains("Roof"))
+            {
+                renderer.material = visibility == Visibility.opaque ? RoofOpaque : RoofTransparent;
+            }
+            
             // renderer.material.color = new Color(renderer.material.color.r, renderer.material.color.g, renderer.material.color.b, transparency);
         }
     }
