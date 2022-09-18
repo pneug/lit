@@ -11,6 +11,13 @@ public class BuildingVisibility : MonoBehaviour
     
     void Start()
     {
+        // activate all building parts
+        foreach (GameObject part in BuildingParts)
+        {
+            part.SetActive(true);
+        }
+        
+        
         currTransparentLv = BuildingParts.Length - 1;
         for (int i = 0; i < BuildingParts.Length - 1; i++)
         {
@@ -49,7 +56,10 @@ public class BuildingVisibility : MonoBehaviour
         }
         foreach (Renderer renderer in renderers)
         {
-            renderer.material = visibility == Visibility.opaque ? houseOpaque : houseTransparent;
+            if (renderer.material.name.Contains("House") || renderer.material.name.Contains("Default") || renderer.material.name.Contains("Roof"))
+            {
+                renderer.material = visibility == Visibility.opaque ? houseOpaque : houseTransparent;
+            }
             // renderer.material.color = new Color(renderer.material.color.r, renderer.material.color.g, renderer.material.color.b, transparency);
         }
     }

@@ -13,7 +13,7 @@ GameObject:
   m_Name: windows on floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 1
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &7105998454019994483
@@ -59,8 +59,8 @@ GameObject:
   m_Name: wall (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &5460746014993441115
 Transform:
@@ -156,8 +156,8 @@ GameObject:
   m_Name: wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &5269804898967265472
 Transform:
@@ -253,8 +253,8 @@ GameObject:
   m_Name: wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &5318344195674332244
 Transform:
@@ -350,8 +350,8 @@ GameObject:
   m_Name: wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470484490648342
 Transform:
@@ -447,8 +447,8 @@ GameObject:
   m_Name: wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470484815840623
 Transform:
@@ -544,8 +544,8 @@ GameObject:
   m_Name: wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470484954230506
 Transform:
@@ -638,7 +638,7 @@ GameObject:
   m_Name: outer walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 1
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &7493470485005633824
@@ -676,8 +676,8 @@ GameObject:
   m_Name: room wall (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485165504428
 Transform:
@@ -773,8 +773,8 @@ GameObject:
   m_Name: room wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485202147117
 Transform:
@@ -870,8 +870,8 @@ GameObject:
   m_Name: room wall (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485277771832
 Transform:
@@ -967,8 +967,8 @@ GameObject:
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485310072221
 Transform:
@@ -1064,8 +1064,8 @@ GameObject:
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485350012873
 Transform:
@@ -1161,8 +1161,8 @@ GameObject:
   m_Name: wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485566660794
 Transform:
@@ -1258,8 +1258,8 @@ GameObject:
   m_Name: room wall (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485621964221
 Transform:
@@ -1355,8 +1355,8 @@ GameObject:
   m_Name: room wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485663687049
 Transform:
@@ -1452,8 +1452,8 @@ GameObject:
   m_Name: room wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485722902023
 Transform:
@@ -1549,8 +1549,8 @@ GameObject:
   m_Name: room wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470485812375438
 Transform:
@@ -1700,8 +1700,8 @@ GameObject:
   m_Name: room wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &7493470486084479065
 Transform:
@@ -1797,8 +1797,8 @@ GameObject:
   m_Name: wall (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &4533003342322427148
 Transform:
@@ -1945,6 +1945,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: big Wood doors light  R (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
 --- !u!4 &718229015087143888 stripped
@@ -2018,6 +2026,14 @@ PrefabInstance:
     - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
       propertyPath: m_Name
       value: big Wood doors light  R (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
@@ -2093,6 +2109,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: big Wood doors light  R (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
 --- !u!4 &1702504200237834050 stripped
@@ -2107,9 +2131,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2155,6 +2187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &9218125794389199005 stripped
@@ -2169,9 +2205,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2217,6 +2261,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &4701558683841093095 stripped
@@ -2231,9 +2279,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2278,6 +2334,10 @@ PrefabInstance:
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
@@ -2353,6 +2413,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: big Wood doors light  R (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
 --- !u!4 &2845472680421444024 stripped
@@ -2367,9 +2435,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2415,6 +2491,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &5579553276638940883 stripped
@@ -2429,9 +2509,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2476,6 +2564,10 @@ PrefabInstance:
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
@@ -2551,6 +2643,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: big Wood doors light  R (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127561933042242929, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f23a4a76d0c30643ba2031cda2e8cf0, type: 3}
 --- !u!4 &4779626458733932869 stripped
@@ -2565,9 +2665,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2613,6 +2721,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &2404019812115041132 stripped
@@ -2627,9 +2739,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2675,6 +2795,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &2560381105110465142 stripped
@@ -2689,9 +2813,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7493470485992710742}
     m_Modifications:
+    - target: {fileID: 1392877824417465606, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392877824417465606, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367178652941634053, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367178652941634053, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2786861945353487905, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
       propertyPath: m_Name
       value: staircase01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786861945353487905, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6394525557355554299, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
       propertyPath: m_RootOrder
@@ -2737,6 +2881,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7766258927893853939, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7766258927893853939, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
 --- !u!4 &1241496235916029442 stripped
@@ -2751,9 +2903,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2799,6 +2959,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &3130890285074554561 stripped
@@ -2813,9 +2977,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2861,6 +3033,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &3446174515898517443 stripped
@@ -2875,9 +3051,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7493470485992710742}
     m_Modifications:
+    - target: {fileID: 1392877824417465606, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392877824417465606, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367178652941634053, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367178652941634053, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2786861945353487905, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
       propertyPath: m_Name
       value: staircase01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786861945353487905, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6394525557355554299, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
       propertyPath: m_RootOrder
@@ -2923,6 +3119,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7766258927893853939, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7766258927893853939, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bd69d592142a214b94c4c2297bf5875, type: 3}
 --- !u!4 &711417076335757235 stripped
@@ -2937,9 +3141,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -2985,6 +3197,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &873662461976796822 stripped
@@ -2999,9 +3215,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -3047,6 +3271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
 --- !u!4 &959347797156569525 stripped
@@ -3061,9 +3289,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7105998454019994483}
     m_Modifications:
+    - target: {fileID: 2890650178337082134, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_Name
       value: window (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028974153555854406, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_RootOrder
@@ -3108,6 +3344,10 @@ PrefabInstance:
     - target: {fileID: 6964494357234530397, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7011003377145342327, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f904e17e318c00c46b553a44b583c2f6, type: 3}
