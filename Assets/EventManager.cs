@@ -5,6 +5,7 @@ using UnityEngine;
 public class EventManager : MonoBehaviour
 {
     public MoveAgent agent;
+    public MoveAgent agent2;
     public ArrowSpawner ArrowSpawner;
     
     // Start is called before the first frame update
@@ -19,6 +20,7 @@ public class EventManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.B))
         {
             agent.enabled = true;
+            agent2.enabled = true;
             ArrowSpawner.StopSpawn();
         }
     }
