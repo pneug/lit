@@ -19,6 +19,12 @@ public class ArrowSpawner : MonoBehaviour
         print("Spawned arrow");
     }
 
+    public void StopSpawn()
+    {
+        // stop the arrow spawning
+        CancelInvoke("SpawnArrow");
+    }
+
     // Update is called once per frame
     void Update()
     {
