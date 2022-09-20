@@ -6,9 +6,9 @@ This is the Visualization part of our submission for HackZurich 2022 that made i
 
 Download and unzip the released build on Windows. Start the Lit.exe file.
 
-* Use the keys wasd to move the camera and ui, jk and nm for rotation
+* Use the keys 'wasd' to move the camera and 'ui', 'jk' and 'nm' for rotation
 * Use the Arrow keys Up and Down to toggle visibility of building parts
-* Press b to let the firefighters move to the civilians along the shortest path
+* Press 'b' to let the firefighters move to the civilians along the shortest path
 
 ## Installation
 
